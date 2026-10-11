@@ -1,0 +1,25 @@
+{
+  "lead": {
+    "name": "DreSofTech Networking",
+    "category": "IT Solutions",
+    "city": "Mutare",
+    "address": "2874 Riverside Road",
+    "phone": "+263783239035",
+    "email": "",
+    "website": "",
+    "hours": "",
+    "lat": null,
+    "lon": null,
+    "source": "manual"
+  },
+  "facts": {},
+  "copy": {
+    "tagline": "It Solutions services in Mutare",
+    "about": "DreSofTech Networking is a IT Solutions business serving Mutare. Get in touch to find out how we can help you.",
+    "services": [
+      "It Solutions products and services",
+      "Friendly local support",
+      "Call or WhatsApp us for a quote"
+    ]
+  }
+}

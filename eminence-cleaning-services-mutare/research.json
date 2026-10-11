@@ -1,0 +1,25 @@
+{
+  "lead": {
+    "name": "Eminence Cleaning Services",
+    "category": "Cleaning Services",
+    "city": "Mutare",
+    "address": "55 4th Street",
+    "phone": "+263202020300",
+    "email": "",
+    "website": "",
+    "hours": "",
+    "lat": null,
+    "lon": null,
+    "source": "manual"
+  },
+  "facts": {},
+  "copy": {
+    "tagline": "Cleaning Services services in Mutare",
+    "about": "Eminence Cleaning Services is a Cleaning Services business serving Mutare. Get in touch to find out how we can help you.",
+    "services": [
+      "Cleaning Services products and services",
+      "Friendly local support",
+      "Call or WhatsApp us for a quote"
+    ]
+  }
+}

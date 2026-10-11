@@ -1,0 +1,25 @@
+{
+  "lead": {
+    "name": "Wise Owl Motel",
+    "category": "Hospitality",
+    "city": "Mutare",
+    "address": "Old Christmas Pass Road",
+    "phone": "+2632064643",
+    "email": "",
+    "website": "",
+    "hours": "",
+    "lat": null,
+    "lon": null,
+    "source": "manual"
+  },
+  "facts": {},
+  "copy": {
+    "tagline": "Hospitality services in Mutare",
+    "about": "Wise Owl Motel is a Hospitality business serving Mutare. Get in touch to find out how we can help you.",
+    "services": [
+      "Hospitality products and services",
+      "Friendly local support",
+      "Call or WhatsApp us for a quote"
+    ]
+  }
+}

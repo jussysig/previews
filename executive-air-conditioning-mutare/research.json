@@ -1,0 +1,25 @@
+{
+  "lead": {
+    "name": "Executive Air Conditioning",
+    "category": "Maintenance",
+    "city": "Mutare",
+    "address": "85 Herbert Chitepo Street",
+    "phone": "+263772934025",
+    "email": "",
+    "website": "",
+    "hours": "",
+    "lat": null,
+    "lon": null,
+    "source": "manual"
+  },
+  "facts": {},
+  "copy": {
+    "tagline": "Maintenance services in Mutare",
+    "about": "Executive Air Conditioning is a Maintenance business serving Mutare. Get in touch to find out how we can help you.",
+    "services": [
+      "Maintenance products and services",
+      "Friendly local support",
+      "Call or WhatsApp us for a quote"
+    ]
+  }
+}

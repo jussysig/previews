@@ -1,0 +1,25 @@
+{
+  "lead": {
+    "name": "Jugo Freight & Transport",
+    "category": "Logistics",
+    "city": "Mutare",
+    "address": "110 Herbert Chitepo Street",
+    "phone": "+2632066208",
+    "email": "",
+    "website": "",
+    "hours": "",
+    "lat": null,
+    "lon": null,
+    "source": "manual"
+  },
+  "facts": {},
+  "copy": {
+    "tagline": "Logistics services in Mutare",
+    "about": "Jugo Freight & Transport is a Logistics business serving Mutare. Get in touch to find out how we can help you.",
+    "services": [
+      "Logistics products and services",
+      "Friendly local support",
+      "Call or WhatsApp us for a quote"
+    ]
+  }
+}
