@@ -1,0 +1,24 @@
+{
+  "lead": {
+    "name": "Pee's Hair",
+    "category": "hair salon",
+    "city": "Gweru",
+    "address": "Gweru",
+    "phone": "+263775307624",
+    "email": "",
+    "website": "https://africabizinfo.com",
+    "lat": null,
+    "lon": null,
+    "source": "web_directory"
+  },
+  "facts": {},
+  "copy": {
+    "tagline": "Hair Salon services in Gweru",
+    "about": "Pee's Hair is a hair salon business serving Gweru. Get in touch to find out how we can help you.",
+    "services": [
+      "Hair Salon products and services",
+      "Friendly local support",
+      "Call or WhatsApp us for a quote"
+    ]
+  }
+}

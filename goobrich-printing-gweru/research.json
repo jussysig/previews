@@ -1,0 +1,24 @@
+{
+  "lead": {
+    "name": "Goobrich Printing",
+    "category": "printing",
+    "city": "Gweru",
+    "address": "Gweru",
+    "phone": "+263777649177",
+    "email": "",
+    "website": "https://africabizinfo.com",
+    "lat": null,
+    "lon": null,
+    "source": "web_directory"
+  },
+  "facts": {},
+  "copy": {
+    "tagline": "Printing services in Gweru",
+    "about": "Goobrich Printing is a printing business serving Gweru. Get in touch to find out how we can help you.",
+    "services": [
+      "Printing products and services",
+      "Friendly local support",
+      "Call or WhatsApp us for a quote"
+    ]
+  }
+}
