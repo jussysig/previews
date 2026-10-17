@@ -1,0 +1,24 @@
+{
+  "lead": {
+    "name": "Whitefalls Driving School",
+    "category": "driving school",
+    "city": "Victoria Falls",
+    "address": "Victoria Falls",
+    "phone": "+263773729912",
+    "email": "",
+    "website": "",
+    "lat": null,
+    "lon": null,
+    "source": "web_directory"
+  },
+  "facts": {},
+  "copy": {
+    "tagline": "Driving School services in Victoria Falls",
+    "about": "Whitefalls Driving School is a driving school business serving Victoria Falls. Get in touch to find out how we can help you.",
+    "services": [
+      "Driving School products and services",
+      "Friendly local support",
+      "Call or WhatsApp us for a quote"
+    ]
+  }
+}

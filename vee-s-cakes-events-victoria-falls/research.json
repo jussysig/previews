@@ -1,0 +1,24 @@
+{
+  "lead": {
+    "name": "Vee's Cakes & Events",
+    "category": "bakery",
+    "city": "Victoria Falls",
+    "address": "Victoria Falls",
+    "phone": "+263775793174",
+    "email": "",
+    "website": "https://africabizinfo.com",
+    "lat": null,
+    "lon": null,
+    "source": "web_directory"
+  },
+  "facts": {},
+  "copy": {
+    "tagline": "Bakery services in Victoria Falls",
+    "about": "Vee's Cakes & Events is a bakery business serving Victoria Falls. Get in touch to find out how we can help you.",
+    "services": [
+      "Bakery products and services",
+      "Friendly local support",
+      "Call or WhatsApp us for a quote"
+    ]
+  }
+}
