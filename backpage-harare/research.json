@@ -1,0 +1,21 @@
+{
+  "lead": {
+    "name": "BackPage",
+    "niche": "guest_house",
+    "city": "Harare",
+    "phone": "+263776630169",
+    "whatsapp": "https://wa.me/263776630169",
+    "email": "",
+    "website": ""
+  },
+  "facts": {},
+  "copy": {
+    "tagline": "Local services in Harare",
+    "about": "BackPage is a local business serving Harare. Get in touch to find out how we can help you.",
+    "services": [
+      "Local products and services",
+      "Friendly local support",
+      "Call or WhatsApp us for a quote"
+    ]
+  }
+}
