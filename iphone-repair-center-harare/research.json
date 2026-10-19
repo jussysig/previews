@@ -1,0 +1,21 @@
+{
+  "lead": {
+    "name": "iphone repair center",
+    "niche": "mobile_phone",
+    "city": "Harare",
+    "phone": "+263772908598",
+    "whatsapp": "https://wa.me/263772908598",
+    "email": "",
+    "website": ""
+  },
+  "facts": {},
+  "copy": {
+    "tagline": "Local services in Harare",
+    "about": "iphone repair center is a local business serving Harare. Get in touch to find out how we can help you.",
+    "services": [
+      "Local products and services",
+      "Friendly local support",
+      "Call or WhatsApp us for a quote"
+    ]
+  }
+}

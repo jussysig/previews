@@ -1,0 +1,21 @@
+{
+  "lead": {
+    "name": "Goshen Creek Guesthouse",
+    "niche": "guest_house",
+    "city": "Harare",
+    "phone": "+263783256532",
+    "whatsapp": "https://wa.me/263783256532",
+    "email": "",
+    "website": ""
+  },
+  "facts": {},
+  "copy": {
+    "tagline": "Local services in Harare",
+    "about": "Goshen Creek Guesthouse is a local business serving Harare. Get in touch to find out how we can help you.",
+    "services": [
+      "Local products and services",
+      "Friendly local support",
+      "Call or WhatsApp us for a quote"
+    ]
+  }
+}
