@@ -1,0 +1,21 @@
+{
+  "lead": {
+    "name": "hydrosevenza electricals",
+    "niche": "electronics",
+    "city": "Harare",
+    "phone": "+263772536365",
+    "whatsapp": "https://wa.me/263772536365",
+    "email": "",
+    "website": ""
+  },
+  "facts": {},
+  "copy": {
+    "tagline": "Local services in Harare",
+    "about": "hydrosevenza electricals is a local business serving Harare. Get in touch to find out how we can help you.",
+    "services": [
+      "Local products and services",
+      "Friendly local support",
+      "Call or WhatsApp us for a quote"
+    ]
+  }
+}
