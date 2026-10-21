@@ -1,0 +1,21 @@
+{
+  "lead": {
+    "name": "Gutsa Msasa Residence",
+    "niche": "apartment",
+    "city": "Harare",
+    "phone": "+263774455458",
+    "whatsapp": "https://wa.me/263774455458",
+    "email": "",
+    "website": ""
+  },
+  "facts": {},
+  "copy": {
+    "tagline": "Local services in Harare",
+    "about": "Gutsa Msasa Residence is a local business serving Harare. Get in touch to find out how we can help you.",
+    "services": [
+      "Local products and services",
+      "Friendly local support",
+      "Call or WhatsApp us for a quote"
+    ]
+  }
+}

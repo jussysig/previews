@@ -1,0 +1,21 @@
+{
+  "lead": {
+    "name": "Gadgets Plug_Zw",
+    "niche": "computer",
+    "city": "Harare",
+    "phone": "+263782286416",
+    "whatsapp": "https://wa.me/263782286416",
+    "email": "",
+    "website": ""
+  },
+  "facts": {},
+  "copy": {
+    "tagline": "Local services in Harare",
+    "about": "Gadgets Plug_Zw is a local business serving Harare. Get in touch to find out how we can help you.",
+    "services": [
+      "Local products and services",
+      "Friendly local support",
+      "Call or WhatsApp us for a quote"
+    ]
+  }
+}
