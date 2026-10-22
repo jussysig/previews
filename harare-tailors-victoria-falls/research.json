@@ -1,0 +1,24 @@
+{
+  "lead": {
+    "name": "Harare Tailors",
+    "category": "tailor",
+    "city": "Victoria Falls",
+    "address": "Victoria Falls",
+    "phone": "+263713016865",
+    "email": "",
+    "website": "",
+    "lat": null,
+    "lon": null,
+    "source": "web_directory"
+  },
+  "facts": {},
+  "copy": {
+    "tagline": "Tailor services in Victoria Falls",
+    "about": "Harare Tailors is a tailor business serving Victoria Falls. Get in touch to find out how we can help you.",
+    "services": [
+      "Tailor products and services",
+      "Friendly local support",
+      "Call or WhatsApp us for a quote"
+    ]
+  }
+}

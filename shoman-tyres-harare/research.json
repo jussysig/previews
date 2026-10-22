@@ -1,0 +1,21 @@
+{
+  "lead": {
+    "name": "Shoman Tyres",
+    "niche": "tyres",
+    "city": "Harare",
+    "phone": "+263779418570",
+    "whatsapp": "https://wa.me/263779418570",
+    "email": "",
+    "website": ""
+  },
+  "facts": {},
+  "copy": {
+    "tagline": "Local services in Harare",
+    "about": "Shoman Tyres is a local business serving Harare. Get in touch to find out how we can help you.",
+    "services": [
+      "Local products and services",
+      "Friendly local support",
+      "Call or WhatsApp us for a quote"
+    ]
+  }
+}

@@ -1,0 +1,21 @@
+{
+  "lead": {
+    "name": "Lost City Pharmacy",
+    "niche": "pharmacy",
+    "city": "Harare",
+    "phone": "+263785704970",
+    "whatsapp": "https://wa.me/263785704970",
+    "email": "",
+    "website": ""
+  },
+  "facts": {},
+  "copy": {
+    "tagline": "Local services in Harare",
+    "about": "Lost City Pharmacy is a local business serving Harare. Get in touch to find out how we can help you.",
+    "services": [
+      "Local products and services",
+      "Friendly local support",
+      "Call or WhatsApp us for a quote"
+    ]
+  }
+}
